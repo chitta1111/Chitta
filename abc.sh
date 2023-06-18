@@ -1,1 +1,3 @@
-chittaranjan Panigrahi
+echo "my name chittaranjan"
+
+date
